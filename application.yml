@@ -1,0 +1,16 @@
+management:
+  security:
+    enabled: false
+  info:
+    git:
+      mode: full
+  shell:
+    auth:
+      simple:
+        user:
+          name: admin
+          password: pass
+
+graphite:
+  host: localhost
+  port: 2003
