@@ -1,3 +1,6 @@
+server:
+  port: 0
+
 reservation:
   names: Marcin,Paweł,Michał,Julek,Artur,Michał2,Marcin2,Michał3,Jacek,Marek,Wojtek
 
