@@ -9,3 +9,8 @@ spring:
     url: jdbc:h2:/tmp/sprio;AUTO_SERVER=TRUE;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false
 
 message: New message from Config Server
+
+management:
+  shell:
+    ssh:
+      enabled: false
